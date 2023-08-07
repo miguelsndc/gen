@@ -4,7 +4,7 @@ import sys
 if len(sys.argv) > 2:
     raise Exception('Only one argument is supported')
 elif len(sys.argv) == 1:
-    raise Exception('What u tryna generate n*gga ? Give me a name')
+    raise Exception('What u tryna generate fella ? Give me a name')
 
 
 folder_name = sys.argv[1]
