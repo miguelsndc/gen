@@ -1,14 +1,16 @@
 Pra usar isso aqui direito vc tem que:
 
-1 - jogar esse arquivo na pasta que vc quer q ele crie os arquivos
+- jogar esse arquivo na pasta que vc quer q ele crie os arquivos
 
-2 - rodar no terminal da seguinte forma:
+- rodar no terminal da seguinte forma:
 
-    ´´´python 
-        python generate.py nome_da_pasta
-    ´´´
+    
+    ```
+    python generate.py nome_da_pasta
+    ```
+    
 
-    * se assegure de usar um nome válido, não suporto um milhão de exceções.
+se assegure de usar um nome válido pra pasta.
 
 3 - com isso ele vai gerar 3 arquivos:
 
